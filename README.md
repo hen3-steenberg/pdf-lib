@@ -6,4 +6,4 @@ The goal of this project is to write a library for manipulating pdf documents.
 * None
 
 ## PDF Documentation
-### [PDF 1.7](https://pdfa.org/resource/iso-32000-pdf/#pdf-1)
+### [PDF 1.7](https://opensource.adobe.com/dc-acrobat-sdk-docs/pdfstandards/PDF32000_2008.pdf)
